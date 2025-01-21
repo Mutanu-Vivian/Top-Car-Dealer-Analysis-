@@ -23,4 +23,13 @@ https://github.com/Mutanu-Vivian/Top-Car-Dealer-Analysis-/blob/main/Top%20Cars%2
 - Imported the designed image as a background, and fit all my visualisations
 - Customised the visuals to match the theme of the dashboard, and added date and region slicers to make the dashboard more interactive
 
+## Insights  
+- Botswana leads with the highest revenue
+- BMW is the most profitable brand
+- Car Models 3 Series, Qashqai, Polo, and Rio dominate sales
+- Top-performing Dealer overall is Brown's Auto
+- Underperforming Dealer is Bala Car Sales
+
+##Recommendations  
+
 
