@@ -12,7 +12,7 @@ https://github.com/Mutanu-Vivian/Top-Car-Dealer-Analysis-/blob/main/Top%20Cars%2
 - Identify Top 3 Cars Sold
 - Compare Profit vs Sales Quantity between brands
 - Visualise Revenue and Sales by City and Dealer
-- Dashboard Image <img src= />
+- Dashboard Image <img src="https://github.com/Mutanu-Vivian/Top-Car-Dealer-Analysis-/blob/main/Top%20Car%20Dealers%20Dashboard.png" />
 
 ## Procedure  
 - Inspect the dataset to check and see if the required information is included, and cleaning the data
